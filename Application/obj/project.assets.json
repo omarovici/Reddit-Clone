@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Application/Application.csproj",
+      "projectUniqueName": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Application/Application.csproj",
       "projectName": "Application",
-      "projectPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Application/Application.csproj",
+      "projectPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Application/Application.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Application/obj/",
+      "outputPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"

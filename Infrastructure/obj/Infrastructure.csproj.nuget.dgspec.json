@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Infrastructure/Infrastructure.csproj": {}
+    "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Infrastructure/Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Infrastructure/Infrastructure.csproj": {
+    "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Infrastructure/obj/",
+        "outputPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"

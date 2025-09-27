@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Reddit-Clone/Reddit-Clone.csproj": {}
+    "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Reddit-Clone.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Reddit-Clone/Reddit-Clone.csproj": {
+    "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Reddit-Clone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Reddit-Clone/Reddit-Clone.csproj",
+        "projectUniqueName": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Reddit-Clone.csproj",
         "projectName": "Reddit-Clone",
-        "projectPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Reddit-Clone/Reddit-Clone.csproj",
+        "projectPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Reddit-Clone.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/Reddit-Clone/obj/",
+        "outputPath": "/Users/macbook/Documents/Study Corner/Projects/Reddit-Clone/Reddit-Clone/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"
